@@ -1,0 +1,11 @@
+C:\dev\object-oriented-programming\CatProgram\CatProgram\bin\Debug\netcoreapp2.1\CatProgram.deps.json
+C:\dev\object-oriented-programming\CatProgram\CatProgram\bin\Debug\netcoreapp2.1\CatProgram.runtimeconfig.json
+C:\dev\object-oriented-programming\CatProgram\CatProgram\bin\Debug\netcoreapp2.1\CatProgram.runtimeconfig.dev.json
+C:\dev\object-oriented-programming\CatProgram\CatProgram\bin\Debug\netcoreapp2.1\CatProgram.dll
+C:\dev\object-oriented-programming\CatProgram\CatProgram\bin\Debug\netcoreapp2.1\CatProgram.pdb
+C:\dev\object-oriented-programming\CatProgram\CatProgram\obj\Debug\netcoreapp2.1\CatProgram.csprojAssemblyReference.cache
+C:\dev\object-oriented-programming\CatProgram\CatProgram\obj\Debug\netcoreapp2.1\CatProgram.csproj.CoreCompileInputs.cache
+C:\dev\object-oriented-programming\CatProgram\CatProgram\obj\Debug\netcoreapp2.1\CatProgram.AssemblyInfoInputs.cache
+C:\dev\object-oriented-programming\CatProgram\CatProgram\obj\Debug\netcoreapp2.1\CatProgram.AssemblyInfo.cs
+C:\dev\object-oriented-programming\CatProgram\CatProgram\obj\Debug\netcoreapp2.1\CatProgram.dll
+C:\dev\object-oriented-programming\CatProgram\CatProgram\obj\Debug\netcoreapp2.1\CatProgram.pdb
