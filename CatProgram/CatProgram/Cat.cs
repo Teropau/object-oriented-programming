@@ -17,15 +17,21 @@ namespace CatProgram
         {
             this.name = name;
             this.weight = weightValue;
+            Console.WriteLine($"Luotu kissa {this.name}, jonka paino on {this.weight}.");
         }
         public Cat(int weightValue)
         {
             this.weight = weightValue;
             //Console.WriteLine($"Kissan paino on {this.weight}");
         }
+        public void InkreaseWeight(int value)
+        {
+            this.weight += value;
+            Console.WriteLine($"Kissan {this.name} uusi paino on {this.weight}.");
+        }
         public void PrintWeight()
         {
-            Console.WriteLine($"Kissan paino on {this.weight}");
+            Console.WriteLine($"Kissan {this.name} paino on {this.weight}.");
         }
     }
 }
