@@ -1,0 +1,11 @@
+C:\dev\object-oriented-programming\BookProgram\BookProgram\bin\Debug\netcoreapp2.1\BookProgram.deps.json
+C:\dev\object-oriented-programming\BookProgram\BookProgram\bin\Debug\netcoreapp2.1\BookProgram.runtimeconfig.json
+C:\dev\object-oriented-programming\BookProgram\BookProgram\bin\Debug\netcoreapp2.1\BookProgram.runtimeconfig.dev.json
+C:\dev\object-oriented-programming\BookProgram\BookProgram\bin\Debug\netcoreapp2.1\BookProgram.dll
+C:\dev\object-oriented-programming\BookProgram\BookProgram\bin\Debug\netcoreapp2.1\BookProgram.pdb
+C:\dev\object-oriented-programming\BookProgram\BookProgram\obj\Debug\netcoreapp2.1\BookProgram.csprojAssemblyReference.cache
+C:\dev\object-oriented-programming\BookProgram\BookProgram\obj\Debug\netcoreapp2.1\BookProgram.csproj.CoreCompileInputs.cache
+C:\dev\object-oriented-programming\BookProgram\BookProgram\obj\Debug\netcoreapp2.1\BookProgram.AssemblyInfoInputs.cache
+C:\dev\object-oriented-programming\BookProgram\BookProgram\obj\Debug\netcoreapp2.1\BookProgram.AssemblyInfo.cs
+C:\dev\object-oriented-programming\BookProgram\BookProgram\obj\Debug\netcoreapp2.1\BookProgram.dll
+C:\dev\object-oriented-programming\BookProgram\BookProgram\obj\Debug\netcoreapp2.1\BookProgram.pdb
