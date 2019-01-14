@@ -7,7 +7,7 @@ namespace BookProgram
         static void Main(string[] args)
         {
             Console.WriteLine("Kirjaohjelma");
-            Book newBook = new Book("How to cut Jew", "Master Carpenter", "00001", 24);
+            Book newBook = new Book("Ultimate history of Wood working around the world", "Carpenter Brut", "00001", 24);
             Console.WriteLine(newBook.PrintInfo());
             Book newBook2 = new Book("Aapinen", "Agricola", "00002", 12);
             Console.WriteLine(newBook2.PrintInfo());
