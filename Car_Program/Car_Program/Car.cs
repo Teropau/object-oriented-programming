@@ -19,7 +19,6 @@ namespace Car_Program
             this.brand = Console.ReadLine();
             Console.WriteLine($"Syötä auton {this.brand} nopeus (km/h):");
             this.speed = int.Parse(Console.ReadLine());
-
         }
         public string ShowCarInfo()
         {
