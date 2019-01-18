@@ -1,0 +1,11 @@
+C:\dev\object-oriented-programming\Employee_Class_Program\Employee_Class_Program\bin\Debug\netcoreapp2.1\Employee_Class_Program.deps.json
+C:\dev\object-oriented-programming\Employee_Class_Program\Employee_Class_Program\bin\Debug\netcoreapp2.1\Employee_Class_Program.runtimeconfig.json
+C:\dev\object-oriented-programming\Employee_Class_Program\Employee_Class_Program\bin\Debug\netcoreapp2.1\Employee_Class_Program.runtimeconfig.dev.json
+C:\dev\object-oriented-programming\Employee_Class_Program\Employee_Class_Program\bin\Debug\netcoreapp2.1\Employee_Class_Program.dll
+C:\dev\object-oriented-programming\Employee_Class_Program\Employee_Class_Program\bin\Debug\netcoreapp2.1\Employee_Class_Program.pdb
+C:\dev\object-oriented-programming\Employee_Class_Program\Employee_Class_Program\obj\Debug\netcoreapp2.1\Employee_Class_Program.csprojAssemblyReference.cache
+C:\dev\object-oriented-programming\Employee_Class_Program\Employee_Class_Program\obj\Debug\netcoreapp2.1\Employee_Class_Program.csproj.CoreCompileInputs.cache
+C:\dev\object-oriented-programming\Employee_Class_Program\Employee_Class_Program\obj\Debug\netcoreapp2.1\Employee_Class_Program.AssemblyInfoInputs.cache
+C:\dev\object-oriented-programming\Employee_Class_Program\Employee_Class_Program\obj\Debug\netcoreapp2.1\Employee_Class_Program.AssemblyInfo.cs
+C:\dev\object-oriented-programming\Employee_Class_Program\Employee_Class_Program\obj\Debug\netcoreapp2.1\Employee_Class_Program.dll
+C:\dev\object-oriented-programming\Employee_Class_Program\Employee_Class_Program\obj\Debug\netcoreapp2.1\Employee_Class_Program.pdb
