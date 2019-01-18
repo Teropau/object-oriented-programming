@@ -1,0 +1,11 @@
+C:\dev\object-oriented-programming\TicketCost_class_Program\TicketCost_class_Program\obj\Debug\netcoreapp2.1\TicketCost_class_Program.csprojAssemblyReference.cache
+C:\dev\object-oriented-programming\TicketCost_class_Program\TicketCost_class_Program\obj\Debug\netcoreapp2.1\TicketCost_class_Program.csproj.CoreCompileInputs.cache
+C:\dev\object-oriented-programming\TicketCost_class_Program\TicketCost_class_Program\obj\Debug\netcoreapp2.1\TicketCost_class_Program.AssemblyInfoInputs.cache
+C:\dev\object-oriented-programming\TicketCost_class_Program\TicketCost_class_Program\obj\Debug\netcoreapp2.1\TicketCost_class_Program.AssemblyInfo.cs
+C:\dev\object-oriented-programming\TicketCost_class_Program\TicketCost_class_Program\bin\Debug\netcoreapp2.1\TicketCost_class_Program.deps.json
+C:\dev\object-oriented-programming\TicketCost_class_Program\TicketCost_class_Program\bin\Debug\netcoreapp2.1\TicketCost_class_Program.runtimeconfig.json
+C:\dev\object-oriented-programming\TicketCost_class_Program\TicketCost_class_Program\bin\Debug\netcoreapp2.1\TicketCost_class_Program.runtimeconfig.dev.json
+C:\dev\object-oriented-programming\TicketCost_class_Program\TicketCost_class_Program\bin\Debug\netcoreapp2.1\TicketCost_class_Program.dll
+C:\dev\object-oriented-programming\TicketCost_class_Program\TicketCost_class_Program\bin\Debug\netcoreapp2.1\TicketCost_class_Program.pdb
+C:\dev\object-oriented-programming\TicketCost_class_Program\TicketCost_class_Program\obj\Debug\netcoreapp2.1\TicketCost_class_Program.dll
+C:\dev\object-oriented-programming\TicketCost_class_Program\TicketCost_class_Program\obj\Debug\netcoreapp2.1\TicketCost_class_Program.pdb
