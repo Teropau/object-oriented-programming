@@ -50,7 +50,7 @@ namespace Kirja_Ja_Kirjailija_Class
             }
         }
 
-        public void SwitchTheme()
+        public static void SwitchTheme()
         {
             Console.Write("Syötä uusi teema:");
             theme = Console.ReadLine();
@@ -65,9 +65,8 @@ namespace Kirja_Ja_Kirjailija_Class
                 if (price > 30)
                 {
                     Console.WriteLine($"Uusi hinta on: {price * 0.9:C}");
-                }
-                    
+                }                   
             }
-        }
+        }      
     }
 }

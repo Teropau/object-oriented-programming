@@ -12,6 +12,7 @@ namespace Kirja_Ja_Kirjailija_Class
             Book lehti = new Book("The subtle art of not giving a f*ck", "Mark Manson", "Atena", 14.90);
             kirja.FetchBook("Twelve rules for life, an anditote for chaos");
             kirja.Price = kirja.price;
+            Book.SwitchTheme();
         }
     }
 }
